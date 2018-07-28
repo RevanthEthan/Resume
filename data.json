@@ -1,8 +1,44 @@
 {
 	"details":{
-		"name":"Revanth",
+		"name":"B. Revanth Rathan",
 		"image":"download.png",
 		"phone":"7093112955",
 		"email":"ethanrevanth3682@gmail.com"
-	}
+	},
+	"education":[
+		{
+			"college":"MIC college",
+			"course":"B.Tech(CSE)",
+			"per":"99%"
+		},
+		{
+			"college":"Kendriya Vidhyala",
+			"course":"Inter(MPC)",
+			"per":"98%"
+		},
+		{
+			"college":"Kendriya Vidhyalaya",
+			"course":"10th",
+			"per":"99%"
+		}
+	],
+	"skills":[
+		{
+			"title":"programming languages",
+			"output":[
+				"c","c++","java","python"
+			]
+
+		},
+		{
+			"title":"operating systems",
+			"output":[
+				"windows","linux","MAC"
+			]
+		}
+	],
+	"career":
+		{
+			"co":"Hello.. My name is Revanth"
+		}
 }
